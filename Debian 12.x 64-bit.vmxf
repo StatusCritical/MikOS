@@ -1,8 +1,1 @@
-<?xml version="1.0"?>
-<Foundry>
-<VM>
-<VMId type="string">52 a5 e0 61 19 4e 6a 67-ea 57 e0 cf f1 79 30 cc</VMId>
-<ClientMetaData>
-<clientMetaDataAttributes/>
-<HistoryEventList/></ClientMetaData>
-<vmxPathName type="string">Debian 12.x 64-bit.vmx</vmxPathName></VM><tools-install-info><installError>0</installError><updateCounter>1</updateCounter></tools-install-info></Foundry>
+
